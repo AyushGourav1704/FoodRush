@@ -308,4 +308,3 @@ npm run build
 
 ---
 
-Built with ❤️ | Good luck with your submission! 🚀
